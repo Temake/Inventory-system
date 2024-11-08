@@ -5,7 +5,7 @@ from selenium.webdriver.common.keys import Keys
 import time
 
 def get_drvier():
-  # Set options to make browsing easier
+  # Set options to make browsing easie
   options = webdriver.ChromeOptions()
   options.add_argument("disable-infobars")
   options.add_argument("start-maximized")
